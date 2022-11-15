@@ -1,3 +1,6 @@
 <template>
-  <h1>Ini header</h1>
+  <div>
+    <Navbar/>
+    <Nuxt/>
+  </div>
 </template>
